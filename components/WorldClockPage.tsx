@@ -138,6 +138,7 @@ const WorldClockPage: React.FC<WorldClockPageProps> = ({ onBack }) => {
                     ))}
                 </div>
             </div>
+            <div className="mt-6"><AdBanner /></div>
         </>
     );
 };
